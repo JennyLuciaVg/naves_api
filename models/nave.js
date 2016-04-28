@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
-
+//Schema nave
 var NaveSchema = new Schema({
   nombre: String,
   categoria: String,
